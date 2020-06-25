@@ -1,3 +1,3 @@
-function shut_down -d 'An alternative to `shutdown`'
+function supersync -d 'Very awesome sync command`'
     sync; sync; sync;
 end
