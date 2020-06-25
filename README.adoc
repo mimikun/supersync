@@ -1,0 +1,10 @@
+= supersync
+
+This command is magic before you the `shutdown`, `reboot` and more...
+
+== Install
+
+[source,shell]
+----
+fisher add github.com/mimikun/supersync
+----
